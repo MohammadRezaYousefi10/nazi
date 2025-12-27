@@ -6,10 +6,10 @@ body {
 
 #btn {
   position: fixed;
-  bottom: 20px;
+  bottom: 50px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 24px;
+  font-size: 50px;
   padding: 10px 20px;
   z-index: 10;
 }
@@ -47,3 +47,4 @@ canvas {
   opacity: 1;
   transform: scale(1);
 }
+
